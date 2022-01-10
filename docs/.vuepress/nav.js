@@ -11,6 +11,10 @@ const nav = [
         text: 'encodeURIComponent',
         link: 'https://www.sojson.com/encodeurl.html',
       },
+      {
+        text: '解析JWT的AccessToken',
+        link: 'https://www.lizhanglong.com/Tools/DeserializeJwtToken',
+      },
     ],
   },
   {
@@ -27,6 +31,26 @@ const nav = [
       {
         text: 'Linux',
         link: '/study/linux/',
+      },
+    ],
+  },
+  {
+    text: '实用工具',
+    items: [
+      { text: '思维导图-流程图在线', link: 'https://www.processon.com/' },
+      {
+        text: '在线PS',
+        link: 'https://ps.gaoding.com/#/',
+      },
+    ],
+  },
+  {
+    text: '奇趣网站',
+    items: [
+      { text: '全历史', link: 'https://www.allhistory.com/' },
+      {
+        text: '奇趣网站收藏',
+        link: 'https://fuun.fun/',
       },
     ],
   },
